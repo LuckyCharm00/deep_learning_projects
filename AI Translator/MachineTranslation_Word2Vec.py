@@ -8,7 +8,7 @@ from sklearn.externals import joblib
 import pandas as pd
 import pickle
 from elapsedtimer import ElapsedTimer
-# Author - Santanu Pattanayak
+# Author - Ariel Chandra
 # Machine Translation Model - English to French
 # Trained on GPU GTX 1070 
 
