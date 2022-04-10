@@ -27,14 +27,14 @@ def get_im_cv2(path,dim=224):
 ```
 
 **Following is what you need for this project:**
-This project is intended for software engineers with ML knowledge, data scientists, machine learning professionals, and deep learning practitioners who are ready to extend their knowledge and potential in AI. If you want to build real-life smart systems to play a crucial role in every complex domain, then this book is what you need. Knowledge of Python programming and a familiarity with basic machine learning and deep learning concepts are expected to help you get the most out of the project.
+This project is intended for software engineers with ML knowledge, data scientists, machine learning professionals, and deep learning practitioners who are ready to extend their knowledge and potential in AI. If you want to build real-life smart systems to play a crucial role in every complex domain, then this project is what you need. Knowledge of Python programming and a familiarity with basic machine learning and deep learning concepts are expected to help you get the most out of the project.
 
 With the following software and hardware list you can run all code files present in the book.
 
 ### Software and Hardware List
 
-| Chapter  | Software required               | OS required       |
+| Project  | Software required               | OS required       |
 | -------- | --------------------------------| ------------------|
-| 1 -10    | Python 3, Tensorflow 1.9.0      |  Windows, Linux   |
+| All      | Python 3, Tensorflow 1.9.0      |  Windows, Linux   |
 |          | Keras 2.2.4, Opencv 3.4.2       |                   |
 
