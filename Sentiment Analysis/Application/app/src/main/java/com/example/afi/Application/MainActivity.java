@@ -40,12 +40,7 @@ public class MainActivity extends AppCompatActivity {
         final TextView score = (TextView) findViewById(R.id.score);
         final RatingBar ratingBar = (RatingBar) findViewById(R.id.ratingBar);
 
-
-
-
-
-
-        //String filePath = "/home/santanu/Downloads/Mobile_App/word2ind.txt";
+        //String filePath = "/home/afi/Downloads/Mobile_App/word2ind.txt";
         final Map<String,Integer> WordToInd = new HashMap<String,Integer>();
         //String line;
 
