@@ -1,8 +1,8 @@
 # Artificial Intelligence Projects Using TensorFlow, Keras, and OpenCV
 
 This is the code repository for Ariel Chandra's Personal Project on Deep Learning.
-Please feel free to create a pull and re-create the projects.
-You are more than welcomed to suggest me with possible changes.  
+<br>Please feel free to create a pull and re-create the projects.
+<br>You are more than welcomed to suggest me with possible changes.  
 
 **9 real-world AI projects leveraging machine learning and deep learning with TensorFlow and Keras**
 
