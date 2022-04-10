@@ -1,11 +1,11 @@
-# Intelligent Projects Using Python
+# Artificial Intelligence Projects Using Python
 
 This is the code repository for Ariel Chandra's Personal Project on Deep Learning
 
 **9 real-world AI projects leveraging machine learning and deep learning with TensorFlow and Keras**
 
 ## What is this project about?
-This project will be a perfect companion if you want to build insightful projects from leading AI domains using Python.
+This project will be a perfect companion if you want to build insightful projects using Python.
 
 This project covers the following exciting features: 
 * Build an intelligent machine translation system using seq-2-seq neural translation machines
